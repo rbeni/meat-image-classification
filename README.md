@@ -23,8 +23,8 @@ Then, install the packages as they are listed on the requirements.txt file
 
 This is a list of the nexts steps for this project:
 
-* Test with different base layers
-* Include callbacks (best model, early stopping) during the training
+* ~~Test with different base layers~~
+* ~~Include callbacks (best model, early stopping) during the training~~
 * ~~Save the model to file~~ Model saved, but not included due to size
 * Transfor to tensorflow lite and check differences in inference time
 * Check a heatmap to discover which features are more important to each class
