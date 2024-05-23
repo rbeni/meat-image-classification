@@ -1,6 +1,6 @@
 # meat-image-classification
 
-Example code for a CNN image classifier or meat images
+Example code for a CNN image classifier of meat images
 
 This is a simple CNN base classifier, built upon a pre-trained EfficientNetB0.
 
@@ -9,9 +9,9 @@ The dataset used for this model is not included here, but can be obtained from r
 
 ## Training
 
-This model as tested with EfficientNet bases from B0 to B4 and from no hidden layer in the classifier to the current 3. Less layers resulted in poor training quality, meaning that the network needed to be more complex to represent the distribution of data seen in the dataset. 
+This model was tested with EfficientNet bases from B0 to B4 and from no hidden layer in the classifier to 3. Less layers resulted in poor training quality, meaning that the network needed to be more complex to represent the distribution of data seen in the dataset. 
 
-Other types of CNN bases layers were not attempted.
+Other types of CNN base layers were not attempted.
 
 ## Usage
 
